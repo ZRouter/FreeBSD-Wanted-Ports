@@ -1,7 +1,7 @@
 # FreeBSD: Wanted Ports
 Unofficial repository to share list of wanted ports for FreeBSD (not only ZRouter/MIPS/Embedded)
 
-Official list of wanted ports is here: https://wiki.freebsd.org/WantedPorts
+Official list of wanted ports is here: https://wiki.freebsd.org/WantedPorts.
 But if you have no wiki account, you can't publish any request there. 
 
 You can use email lists with hope that ports committers/porters will see it. 
